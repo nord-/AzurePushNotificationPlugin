@@ -6,9 +6,9 @@
     <RootNamespace>Plugin.AzurePushNotification</RootNamespace>
     <PackageId>Plugin.AzurePushNotification</PackageId>
     <Product>$(AssemblyName) ($(TargetFramework))</Product>
-    <AssemblyVersion>2.0.0</AssemblyVersion>
-    <AssemblyFileVersion>2.0.0</AssemblyFileVersion>
-    <Version>2.0.0</Version>
+    <AssemblyVersion>2.1.4</AssemblyVersion>
+    <AssemblyFileVersion>2.1.4</AssemblyFileVersion>
+    <Version>2.1.4</Version>
     <PackOnBuild>true</PackOnBuild>
     <NeutralLanguage>en</NeutralLanguage>
     <LangVersion>default</LangVersion>
